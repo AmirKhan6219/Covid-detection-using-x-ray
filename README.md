@@ -1,4 +1,4 @@
-# Covid-detection-using-x-ray
+# Covid-detection-using-x-ray (Machine Learning)
 Covid-19 detection using x-ray images by predecting the +ve and -ve cases.
 
 Dataset: http://cb.lk/covid_19
